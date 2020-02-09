@@ -6,16 +6,16 @@
 - `./code`
 	- `baseline.py`
 		- This solves `4.1 Baseline` problem.
-		- It generate `gene_test.p1.out`.
+		- It generates `gene_test.p1.out`.
 	- `hmm_trigram.py`
 		- This solves `4.2 HMM with trigram features` problem.
-		- It generate `gene_test.p2.out`.
+		- It generates `gene_test.p2.out`.
 	- `run_eval_baseline.sh`
 		- This shell file evaluates baseline result.
 	- `run_eval_viterbi.sh`
 		- This shell file evaluates viterbi result.
 	- `run_gene_count.sh`
-		- This shell file generate the count files with `_RARE_` word.
+		- This shell file generates the count files with `_RARE_` word.
 - `./hmm`
 	- This includes helper functions that are provided by the homework assignment, such as:
 		- `count_freqs.py`
