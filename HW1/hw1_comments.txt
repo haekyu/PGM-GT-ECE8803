@@ -1,0 +1,12 @@
+Grade: 91 / 100
+
+Q1 Comments: 
+
+Q2.4 Comments:  
+
+Q2.3 Comments:  
+
+Q2.5 Comments:  Part(a) - Using figures as examples and showing the proof holds makes it a special case corresponding to only that figure. (-5.5 points). Part(b) - Correct.
+
+Q3 Comments: Part(a) There is a needless distinction between bold X_{-i} and the non-bold one. (-2) Part(b) - No distinction between samples and RVs (-1).
+
