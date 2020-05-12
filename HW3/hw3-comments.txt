@@ -1,0 +1,24 @@
+Points: 83 / 100
+
+Q1.1. (total 2 points):  2 Point(s)
+Comments:  
+
+Q1.2 (total 3 points):  3 Point(s)
+Comments:  
+
+Q1.3 (total 6 points):  6 Point(s)
+Comments:  
+
+Q1.4 (total 4 points):  4 Point(s)
+Comments:  
+
+Q3 (total 6 points):  6 Point(s)
+Comments:  
+
+Q7 (total 15 points):  12 Point(s)
+Comments:  KL Not reported
+
+Q9.1 (total 9 points):  2 Point(s)
+Comments:  You showed that J=log(Z). But the actual part of the proof showing that log(Z) is greater than or equal to the term on the RHS is just stated. You have to state what property makes it true.
+
+Q9.2 (total 5 points):  5 Point(s)
